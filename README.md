@@ -2,7 +2,7 @@
 
 Purpose of this software is to convert small encrypted binary blobs to
 NATO alphabet so that the sender can speak  the file to be transmitted
-over the telephone and the the receiving party  writes down the NATO
+over the telephone and the receiving party  writes down the NATO
 words as HEX values and then use the second program to convert back
 the HEX values to a binary file.
 
