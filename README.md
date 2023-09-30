@@ -28,6 +28,6 @@ Sender speaks: **Alfa-Zero, Foxtrot-Nine, Six-Eight, Three-Two, Bravo-Five**
 
 Listener writes down: **A0 F9 68 32 B5**
 
-[Update - 30-Sep-2023] Added German Version, which uses the Buchstabiertafel.
+[Update - 30-Sep-2023] Added German Version of sender programm, which uses the Buchstabiertafel.
 
 
